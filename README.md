@@ -13,6 +13,6 @@ In MCU_2(Receiver)
   PB4 -> YELLOW_2
   PB5 -> GREEN_2
   PA6 -> LOAD_1
-  PA7 -> LOADD_2
+  PA7 -> LOAD_2
 
 PA0 & PA1 is RX and TX of UART/USART will be in cross-connection in two MCU
